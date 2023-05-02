@@ -11,7 +11,7 @@ bool invited[maxn][maxn];
 ull a[maxn][maxn];
 ull s1 = 0,s2 = 0, res = 0; 
 int n, m, t;
-int dx1[2] = {0, 0},
+int 	dx1[2] = {0, 0},
 	dy1[2] = {-1, 1},
 	
 	dx2[2] = {-1, 1},
